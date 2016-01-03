@@ -2,6 +2,7 @@ name: fred
 favicon: null
 layout_spectrum: 0.9436244298703969
 typography_spectrum: 0.7777169558685273
+title: Fred
 cta:
   domain: null
   bucket: null
